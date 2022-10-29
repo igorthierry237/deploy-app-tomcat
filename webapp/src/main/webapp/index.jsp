@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
-    <a href="#home" class="w3-bar-item w3-button">Gourmet au Catering</a>
+    <a href="#home" class="w3-bar-item w3-button">bouavement au Catering</a>
     <!-- Right-sided navbar links. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
       <a href="#about" class="w3-bar-item w3-button">About</a>
@@ -47,8 +47,8 @@ h1, h2, h3, h4, h5, h6 {
 
     <div class="w3-col m6 w3-padding-large">
       <h1 class="w3-center">About food</h1><br>
-      <h5 class="w3-center">Tradition since 2022</h5>
-      <p class="w3-large">The Catering was founded in Douala by Mr. devops foods  in lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.We only use <span class="w3-tag w3-light-grey">seasonal</span> ingredients.</p>
+      <h5 class="w3-center">Tradition since 1940</h5>
+      <p class="w3-large">The Catering was founded in bonamoussadi by Mr. pablo escobar foods  in lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.We only use <span class="w3-tag w3-light-grey">seasonal</span> ingredients.</p>
       <p class="w3-large w3-text-grey w3-hide-medium">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
   </div>
@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
     <h1>Contact</h1><br>
     <p>We offer full-service catering for any event, large or small. We understand your needs and we will cater the food to satisfy the biggerst criteria of them all, both look and taste. Do not hesitate to contact us.</p>
     <p class="w3-text-blue-grey w3-large"><b>6441 alan linton fd 2980 </b></p>
-    <p>You can also contact us by phone 240-78484-8484 or email francknga@catering.com, or you can send us a message here:</p>
+    <p>You can also contact us by phone 322-223-2222 or email pabloescobar@catering.com, or you can send us a message here:</p>
     <form action="/action_page.php" target="_blank">
       <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
       <p><input class="w3-input w3-padding-16" type="number" placeholder="How many people" required name="People"></p>
